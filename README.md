@@ -70,19 +70,25 @@ BitWave/
 
 ## How to Run
 
-### 1. Open the project root folder
-Open your terminal (PowerShell, Command Prompt, or bash) in the project directory:
+### 1. Clone the repository
+Clone the project to your local machine:
 ```bash
-cd path/to/BitWave
+git clone https://github.com/uvselects/BitWave--Vityarthi-Project.git
 ```
 
-### 2. Compile the project
+### 2. Open the project root folder
+Open your terminal (PowerShell, Command Prompt, or bash) and navigate to the project directory:
+```bash
+cd BitWave--Vityarthi-Project
+```
+
+### 3. Compile the project
 Compile all source files into the `bin/` directory:
 ```bash
 javac -sourcepath src -d bin src/com/bitwave/Main.java
 ```
 
-### 3. Run the application
+### 4. Run the application
 Run the compiled `Main` class:
 ```bash
 java -cp bin com.bitwave.Main
