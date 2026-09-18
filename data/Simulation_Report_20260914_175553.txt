@@ -1,0 +1,12 @@
+==================================================
+            BITWAVE SIMULATION REPORT             
+==================================================
+Waveform Type: SINE
+Frequency: 5.0 Hz
+Sampling Rate: 20.0 Hz
+Original Data Size: 40 bits
+Channel Noise Level: 2.0%
+Total Raw Channel Bit Flips: 3 bits
+Final Uncorrected Bit Error Rate (BER): 0.05
+System Recovery Status: PARTIAL - Multi-bit block corruptions exceeded Hamming single-error bounds.
+==================================================

@@ -1,0 +1,16 @@
+==================================================
+            BITWAVE SIMULATION REPORT             
+==================================================
+Waveform Type: SAWTOOTH
+Frequency: 6.0 Hz
+Sampling Rate: 24.0 Hz
+Duration: 1 s
+Raw Bitstream Size: 24 bits
+Line Encoding: Manchester
+Hamming Encoded Stream: 42 bits
+Channel Error Rate: 3.00%
+Channel Bit Flips: 2 bits
+Residual Errors After Decoding: 0 bits
+Final Bit Error Rate (BER): 0.0000
+Correction Status: SUCCESS - All channel errors corrected.
+==================================================
